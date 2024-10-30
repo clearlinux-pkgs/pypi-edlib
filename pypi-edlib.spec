@@ -7,7 +7,7 @@
 #
 Name     : pypi-edlib
 Version  : 1.3.9.post1
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/0c/dd/caa71ef15b46375e01581812e52ec8e3f4da0686f370e8b9179eb5f748fb/edlib-1.3.9.post1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/0c/dd/caa71ef15b46375e01581812e52ec8e3f4da0686f370e8b9179eb5f748fb/edlib-1.3.9.post1.tar.gz
 Summary  : Lightweight, super fast library for sequence alignment using edit (Levenshtein) distance.
